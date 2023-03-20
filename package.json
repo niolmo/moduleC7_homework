@@ -1,0 +1,22 @@
+{
+  "name": "modulec7_homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "home",
+    "work",
+    "homework"
+  ],
+  "author": "morozov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
